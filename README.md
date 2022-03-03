@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Codify-Code
 - 👀 I’m interested in HTML, CSS, JavaScript !
 - 🌱 I’m currently learning JavaScript !
-- 💞️ I’m looking to collaborate on Codify Website
+- 💞️ I’m looking to collaborate on Codify Website !
 - 📫 How to reach me - https://github.com/Divyanshudhruv
 
 <!---
